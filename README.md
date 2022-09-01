@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Lara. I did my PhD on rhythms in animals' acoustic signals and how to analyse them at the Museum für Naturkunde Berlin 
-and the Freie Universität Berlin. I am now working at the Donders Institute for Brain, Cognition and Behaviour at Radboud University, Nijmegen.
+and the Freie Universität Berlin. I am now working at the Donders Institute for Brain, Cognition and Behaviour at Radboud University, Nijmegen as well as at the Max-Planck-Institute for Psycholinguistics, Nijmegen. 
 
 - 🔭 I’m currently working on different projects to analyse the temporal structures of communication signals, i.e. in connection to movement.
 - 💬 Ask me about the rhythm analysis app I am programming (https://github.com/LSBurchardt/R_app_rhythm).
