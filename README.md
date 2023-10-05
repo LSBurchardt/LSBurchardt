@@ -3,7 +3,7 @@
 My name is Lara. I am a trained Biologist and did my PhD on rhythms in animals' acoustic signals and how to analyse them at the Museum für Naturkunde Berlin 
 and the Freie Universität Berlin. 
 
-I am currently working at the Leibniz-Zentrum Allgemeine Sprachwissenschaft, Berlin and am also affiliated with the Max-Planck-Institute for Psycholinguistics, Nijmegen. 
+I am currently working at the Leibniz-Zentrum Allgemeine Sprachwissenschaft, Berlin. Soon I will start my own grant at the Humboldt-University Berlin to further develop rhythm analysis methodology. 
 
 - 🔭 I’m currently working on different projects to analyse the temporal structures of communication signals, i.e. in connection to movement.
 - 💬 Ask me about the rhythm analysis app I am programming (https://github.com/LSBurchardt/R_app_rhythm).
